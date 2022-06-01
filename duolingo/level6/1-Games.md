@@ -19,3 +19,4 @@
 2. L - I can't believe how brilliant she is
 3. S - My friend is brilliant and does puzzles in ten minutes.
 4. G - I am fairly *sure*  that our team will win, but I don't know. 
+5- T   Alexander prefers his nickname, which is Alex.   ---> Alexander prefiere su apodo, que es Alex
