@@ -20,3 +20,11 @@
 3. S - My friend is brilliant and does puzzles in ten minutes.
 4. G - I am fairly *sure*  that our team will win, but I don't know. 
 5- T   Alexander prefers his nickname, which is Alex.   ---> Alexander prefiere su apodo, que es Alex
+6 - G The stadium was  *fairly* crowded on Saturday.
+7- L-would you mind if some fans take your photo?
+8 - G -Would you mind *if* I join your game?
+9. V - The two sculptures look alike. They are almost **the same**
+10. G - My two kids are ... good at word games.  **fairly**
+11. R Emy and Eve are sisters. 12. They both have red hair and long legs. They look alike, so when they play rugby, it's confusing for the other team!--> Are very similar
+12. T Each player on the hockey team has an unusual nickname. --> cada jugador en el equipo de hockey tiene un apodo raro
+13. Hey Patrick, did you watch Spain play Scotland on TV last night? I was surprised. The stadium was fairly crowded!   There were many people at the game
