@@ -1,6 +1,6 @@
-**lvl-2
+## lvl-2
 
-**** lesson 1
+###  lesson 1
 1.  S - He's the unluckiest player I have ever met.
 2.  L - Would you mind practising in the gym tonight?
 3.  S - We're looking for a golf player with amazing abilities.
@@ -13,7 +13,7 @@
 10.  R -Ben has very good swimming abilities. I'm not really surprised because his sister does, too. They can both swim like fish!
 11.  T -It's fantastic how well the team plays together. ----- >Es fantástico lo bien que juega el equipo junto.
 
-*** lesson 2
+###  lesson 2
 
 1. S - Would you mind if we use this table to play cards?
 2. L - I can't believe how brilliant she is
@@ -30,7 +30,7 @@
 13. T Each player on the hockey team has an unusual nickname. --> cada jugador en el equipo de hockey tiene un apodo raro
 14. Hey Patrick, did you watch Spain play Scotland on TV last night? I was surprised. The stadium was fairly crowded!   There were many people at the game
 
-*** lesson 3
+### lesson 3
 
 1. C She had a big smile *on her face* after she won the game.
 2. C Her piano skills are unbelivable. She is the *best* player I know.
@@ -47,3 +47,20 @@
 13.  L.It's unbelievable  *how* well she plays soccer.
 14.  T No estoy segura de mis habilidades para el tenis --->I'm not very confident in my tennis abilities.
 15.  T Me encanta ver las grandes sonrisas de nuestros fans.--->I love seeing our fans' big smiles
+
+### Lesson 4
+
+1. Would you mind if we play a more relaxing game?This one is very stressful.
+2. How creative David is! His sculptures are  amazing!
+3. Max felt relaxed because it was his day off.
+4. How smart and creative you are!
+5. would you mind if I have a relaxing cup of tea?
+6. We're all curious about that new video game.-->
+7. Maria tiene tiempo para nadar porque esta desempleada.--->Maria has time to swim because she's unemployed.
+8. When Luigi was unemployed, he played a lot of video games late at night before bed. Now he's a lawyer, and he has to go to bed early.
+Luigi played video games…when he didn't jave a job.
+I'm curious about chess. Would you mind teaching me to play
+I started going to the gym when I was unemployed
+I'm curious about trying a new sport
+I'm curious about his expensive new racket.
+?
