@@ -19,10 +19,10 @@
 2. L - I can't believe how brilliant she is
 3. S - My friend is brilliant and does puzzles in ten minutes.
 4. G - I am fairly *sure*  that our team will win, but I don't know. 
-5- T   Alexander prefers his nickname, which is Alex.   ---> Alexander prefiere su apodo, que es Alex
-6 - G The stadium was  *fairly* crowded on Saturday.
-7- L-would you mind if some fans take your photo?
-8 - G -Would you mind *if* I join your game?
+5. - T   Alexander prefers his nickname, which is Alex.   ---> Alexander prefiere su apodo, que es Alex
+6. - G The stadium was  *fairly* crowded on Saturday.
+7. - L-would you mind if some fans take your photo?
+8. - G -Would you mind *if* I join your game?
 9. V - The two sculptures look alike. They are almost **the same**
 10. G - My two kids are ... good at word games.  **fairly**
 11. R Emy and Eve are sisters. 
@@ -58,9 +58,24 @@
 6. We're all curious about that new video game.-->
 7. Maria tiene tiempo para nadar porque esta desempleada.--->Maria has time to swim because she's unemployed.
 8. When Luigi was unemployed, he played a lot of video games late at night before bed. Now he's a lawyer, and he has to go to bed early.
-Luigi played video games…when he didn't jave a job.
-I'm curious about chess. Would you mind teaching me to play
-I started going to the gym when I was unemployed
-I'm curious about trying a new sport
-I'm curious about his expensive new racket.
-?
+9. Luigi played video games…when he didn't jave a job.
+10. I'm curious about chess. Would you mind teaching me to play
+11. I started going to the gym when I was unemployed
+12. I'm curious about trying a new sport
+13. I'm curious about his expensive new racket.
+
+## Lesson 5
+
+1. The changes to the sport made hockey lovers angry.
+2. Mario has always been a book lover. He reads ***all the time**
+3. The football game was **uninteresting** to my friends.
+4. The front row of the stadium is for **disabled people.**
+5. This part of the parking lot is for disabled visitors.
+6. Soccer is uninteresting to me. I prefear basketball.
+7. I don't know how I cut my chin last week.
+8. >Lovers of soccer will really enjoy the new film about Pelé. It tells how a poor child from Brazil became the best player in the world.
+9. Bruce got a cut on his chin when the ball hit his face.
+10. Excuse me, would you mind telling me more about the special sports classes for disabled students? My teenage son loves sports!
+11. Would you mind letting your teenage cousin help you?
+12. Would you mind teaching my teenage son to play chess?
+13. Every video game lover wants to try this new game.
