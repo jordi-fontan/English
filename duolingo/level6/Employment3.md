@@ -1,0 +1,23 @@
+- Everyone has seemed busier since the project started.
+- Why don't you get a part-time job?
+- He's seemed a little bored since he quit his job.
+- I had a full-time job while I was in college.
+- The office has never seemed crowded.
+- i'm looking for a part-time job
+- the store was closed while they were painting it
+- she seemed happy when I saw her
+- i've worked here since I finished college
+- the office's never seemed crowded
+
+- Who signed the letter?
+- Has the boss added his name to Luigi's birthday card?
+- I was away for three weeks
+- Mr. Jackson signed the documents before he left.
+- They closed several stores in 2013.
+-  Now there are fewer businesses
+-  The factory that makes winter coats has closed.
+-  She hasn't signed the form yet.
+-  we were away for three months last summer
+-  after the fire, they had to close the business
+-  they've closed two more stores since March
+-  He signed all of the documents yesterday
