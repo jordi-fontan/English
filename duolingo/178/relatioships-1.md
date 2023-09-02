@@ -1,0 +1,14 @@
+- things were a whole lot easier before we got married. Our lives were ten times simpler back then!
+- I feel a whole lot better now that we've had a chat. It really helped  to talk!
+- I feel a whole lot better after our chat about this relationship.
+- If someone yells at you, they speak to you very loudly, perhaps because they're angry or want your attention.
+- When we started dating, he was such a positive person. But nowadays, he complains much more than he used to.
+- You're lazy these days, and you don't do the housework as often as you used to.
+- We hardly ever go to our favorite places anymore./ I know, not as often as we used to.
+- I think that's offensive.
+- what you are saying is really offensive
+- I'm sorry if my comments were offensive.
+- We're practically strangers!
+- We never used to yell at each other!
+- I shouldn't have yelled at you. It was childish of me to lose my temper
+.
